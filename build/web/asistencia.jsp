@@ -24,10 +24,10 @@
                     <a class="navbar-brand" href="#"><img src="img/logo-generico1.jpg"/>Control de Asistencia</a>
                   </div>
                   <ul class="row">
-                    <li class="active col"><a href="index.jsp">Inicio</a></li>
-                    <li class="col"><a href="#">¿Quienes somos?</a></li>
-                    <li class="col"><a href="#">Contacto</a></li>
-                    </ul>
+                    <li class="active col"><a href="/">Inicio</a></li>
+                    <li class="col"><a href="/somos">¿Quienes somos?</a></li>
+                    <li class="col"><a href="/contacto">Contacto</a></li>
+                  </ul>
                 </div>
               </nav>
         </div>
